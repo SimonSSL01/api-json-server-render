@@ -1,0 +1,8 @@
+{
+  "item": [
+    { "id": "1", "name": "Laptop", "description": "" , "avatar":""}    
+  ],
+  "user": [
+    { "id": "1", "name": "Juan Pérez", "email": "juangmail.com", "avatar":"" }
+  ]
+}
