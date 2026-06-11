@@ -1,6 +1,7 @@
 {
   "producto": [
-    { "id": "1", "name": "Laptop", "description": "" , "avatar":""}    
+    { "id": "1", "name": "vidrio 4mm", "description": "" , "avatar":""},    
+    { "id": "1", "name": "vidrio 5mm", "description": "" , "avatar":""}    
   ],
   "user": [
     { "id": "1", "name": "Juan Pérez", "email": "juangmail.com", "avatar":"" }
