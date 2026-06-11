@@ -5,5 +5,9 @@
   ],
   "user": [
     { "id": "1", "name": "Juan Pérez", "email": "juangmail.com", "avatar":"" }
+  ],
+  "proyecto": [
+    { "id": "1", "title": "Ventanal", "description": "Ventanal al frente del mar.", "imagen":"https://static.wixstatic.com/media/7d68de_30d6382c59dc4876b8f1d8f7c4fbc8e6~mv2.jpg/v1/fill/w_980,h_551,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7d68de_30d6382c59dc4876b8f1d8f7c4fbc8e6~mv2.jpg" },
+    { "id": "2", "title": "Fachada en vidrio", "description": "Fachada de vidrio para casa.", "imagen":"https://i.pinimg.com/originals/df/06/ea/df06eaec0b2295ac4495ea2b07dece9c.jpg" }
   ]
 }
