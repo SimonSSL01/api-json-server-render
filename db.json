@@ -26,18 +26,14 @@
   ],
   "cotizacion": [
   {
-  "cotizacion": [
-    {
-      "id": "1",
-      "nombreCliente": "Ana Martínez",
-      "email": "ana.mtz@email.com",
-      "telefono": "3124567890",
-      "direccion": "Carrera 45 # 12-34, Medellín",
-      "productosJson": "[{\"nombre\":\"Vidrio Templado\",\"largo\":100.0,\"ancho\":50.0,\"cantidad\":2,\"precioUnitario\":17500.0}]",
-      "total": 35000
-    }
-  ]
-}
+    "id": "1",
+    "nombreCliente": "Ana Martínez",
+    "email": "ana.mtz@email.com",
+    "telefono": "3124567890",
+    "direccion": "Carrera 45 # 12-34, Medellín",
+    "productosJson": "[...]",
+    "total": 35000
+  }
 ]
 
   
