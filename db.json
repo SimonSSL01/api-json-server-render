@@ -24,43 +24,31 @@
     { "id": "7", "name": "Fernando Sanz", "phone": "3187778899", "address": "Diagonal 75 # 30-40", "service": "Toma de Medidas", "date": "2023-11-19", "time": "01:00 PM", "description": "Medidas para baranda de balcón.", "status": "Cancelada" },
     { "id": "8", "name": "Laura Victoria", "phone": "3146665544", "address": "Calle 50 # 50-50", "service": "Instalación", "date": "2023-11-20", "time": "10:30 AM", "description": "Instalación de techo en vidrio laminado.", "status": "Pendiente" }
   ],
-  [
+  "cotizacion": [
   {
-    "id": "1", "nombreCliente": "Juan Pérez", "email": "juan.perez@example.com", "telefono": "+57 300 123 4567", "direccion": "Calle 10 # 45-20, Medellín",
-    "productos": [
-      {
-        "nombre": "Vidrio Templado 6mm",
-        "largo": 120.5,
-        "ancho": 80.0,
-        "cantidad": 2,
-        "precioUnitario": 33740.0
-      },
-      {
-        "nombre": "Espejo Biselado",
-        "largo": 60.0,
-        "ancho": 60.0,
-        "cantidad": 1,
-        "precioUnitario": 12600.0
-      }
-    ],
-    "total": 80080.0
-  },
-  {
-    "id": "2",
-    "nombreCliente": "Empresa Vidrios S.A.",
-    "email": "contacto@vidriossa.com",
-    "telefono": "604 444 5566",
-    "direccion": "Zona Industrial, Belén",
-    "productos": [
-      {
-        "nombre": "Fachada de Vidrio Laminado",
-        "largo": 250.0,
-        "ancho": 200.0,
-        "cantidad": 4,
-        "precioUnitario": 175000.0
-      }
-    ],
-    "total": 700000.0
-  }
+  "nombreCliente": "Ana Martínez",
+  "email": "ana.mtz@email.com",
+  "telefono": "3124567890",
+  "direccion": "Carrera 45 # 12-34, Medellín",
+  "productos": [
+    {
+      "nombre": "Vidrio Templado Claro",
+      "largo": 100.0,
+      "ancho": 50.0,
+      "cantidad": 2,
+      "precioUnitario": 17500.0
+    },
+    {
+      "nombre": "Herraje Acero Inoxidable",
+      "largo": 0.0,
+      "ancho": 0.0,
+      "cantidad": 4,
+      "precioUnitario": 4500.0
+    }
+  ],
+  "total": 53000.0
+}
 ]
+
+  
 }
