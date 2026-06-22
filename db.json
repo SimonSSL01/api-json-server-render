@@ -1,33 +1,18 @@
 {
   "producto": [
-    { "id": "1", "name": "Vidrio 4mm", "description": "Vidrio incoloro de 4mm, ideal para ventanería residencial estándar y marcos de cuadros.", "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzcTtUmEIbYFQfohQgVoRcZ_H0VexwVrdZiQoTz4dOOc3TWKIN-HVI5a0&s=10" },
-    { "id": "2", "name": "Vidrio 5mm", "description": "Vidrio de 5mm con mayor resistencia, excelente para ventanas de gran tamaño y reducción acústica básica.", "avatar": "https://www.cristalamedida.com/udecontrol_datos/punta/min/3.jpg" },
-    { "id": "3", "name": "Espejo Decorativo", "description": "Espejo de cristal de alta definición con bordes pulidos, perfecto para baños y salas.", "avatar": "https://m.media-amazon.com/images/I/71id11h6LNL._AC_SL1500_.jpg" },
-    { "id": "4", "name": "Vidrio Templado 6mm", "description": "Vidrio de seguridad sometido a tratamiento térmico. Ideal para divisiones de baño y puertas.", "avatar": "https://image.made-in-china.com/2f0j00wfRUIuYclGko/6mm-8mm-10mm-12mm-Clear-Tempered-Glass-for-Shower-Door-Bathroom.jpg" },
-    { "id": "5", "name": "Vidrio Esmerilado", "description": "Acabado opaco que permite el paso de luz pero mantiene la privacidad. Ideal para oficinas.", "avatar": "https://www.vitroarte.com.co/wp-content/uploads/2021/08/vidrio-esmerilado.jpg" },
-    { "id": "6", "name": "Vidrio Laminado", "description": "Dos capas de vidrio con película intermedia. Máxima seguridad y protección contra rayos UV.", "avatar": "https://vidriosandino.com/wp-content/uploads/2020/05/laminado.jpg" },
-    { "id": "7", "name": "Herraje de Acero", "description": "Soportes de acero inoxidable para vidrios fijos y puertas batientes de cristal.", "avatar": "https://m.media-amazon.com/images/I/61gR7mSshBL._AC_SL1000_.jpg" },
-    { "id": "8", "name": "Perfil de Aluminio", "description": "Perfilería en aluminio negro mate para marcos de ventanas y sistemas corredizos.", "avatar": "https://sc04.alicdn.com/kf/H856d817f7d144e138384288d67280e22F.jpg" }
+    { "id": "1", "name": "Vidrio 4mm", "description": "Vidrio incoloro de 4mm, ideal para ventanería residencial estándar y marcos de cuadros.", "avatar": "https://vitrolit.com/wp-content/uploads/2017/07/vidrio-flotado-incoloro.jpg" },
+    { "id": "2", "name": "Vidrio 5mm", "description": "Vidrio de 5mm con mayor resistencia, excelente para ventanas de gran tamaño y reducción acústica básica.", "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoxZbSRlf1Iy36hbXXqhFX6Dw-PE1r5H2b0xHNBabJpN6qG_iG6_7ewvj7&s=10" },
+    { "id": "3", "name": "Espejo Decorativo", "description": "Espejo de cristal de alta definición con bordes pulidos, perfecto para baños y salas.", "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJJaOmIDrpTVKC1YN_XywxaD90hSMMEbij-qopEESk6dGAxmbEaAIgQJ4&s=10" }
   ],
   "user": [
-    { "id": "1", "name": "Juan Pérez", "email": "juan@gmail.com", "avatar": "https://i.pravatar.cc/150?u=1" },
-    { "id": "2", "name": "María García", "email": "maria@hotmail.com", "avatar": "https://i.pravatar.cc/150?u=2" },
-    { "id": "3", "name": "Carlos Rodríguez", "email": "carlos@outlook.com", "avatar": "https://i.pravatar.cc/150?u=3" },
-    { "id": "4", "name": "Ana Martínez", "email": "ana@yahoo.com", "avatar": "https://i.pravatar.cc/150?u=4" },
-    { "id": "5", "name": "Luis Sánchez", "email": "luis@empresa.com", "avatar": "https://i.pravatar.cc/150?u=5" },
-    { "id": "6", "name": "Elena Gómez", "email": "elena@gmail.com", "avatar": "https://i.pravatar.cc/150?u=6" },
-    { "id": "7", "name": "Roberto Díaz", "email": "roberto@vitral.com", "avatar": "https://i.pravatar.cc/150?u=7" },
-    { "id": "8", "name": "Sofía Castro", "email": "sofia@gmail.com", "avatar": "https://i.pravatar.cc/150?u=8" }
+    { "id": "1", "name": "Simon Sierra", "email": "simon@gmail.com", "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr2oRo-17a9pF-cvVuyxqVWRu8yJDgheLtGAuOLQD8Nboa_Q7LpG_eGBs&s=10" },
+    { "id": "2", "name": "María García", "email": "maria@hotmail.com", "avatar": "https://i.pravatar.cc/150?u=3" },
+    { "id": "3", "name": "Carlos Rodríguez", "email": "carlos@gmail.com", "avatar": "https://i.pravatar.cc/150?u=2" }
   ],
   "proyecto": [
-    { "id": "1", "title": "Ventanal Marítimo", "description": "Instalación de ventanales panorámicos frente al mar con resistencia a la salinidad.", "image": "https://static.wixstatic.com/media/7d68de_30d6382c59dc4876b8f1d8f7c4fbc8e6~mv2.jpg/v1/fill/w_980,h_551,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/7d68de_30d6382c59dc4876b8f1d8f7c4fbc8e6~mv2.jpg" },
-    { "id": "2", "title": "Fachada Residencial", "description": "Diseño moderno de fachada integral en vidrio templado para vivienda unifamiliar.", "image": "https://i.pinimg.com/originals/df/06/ea/df06eaec0b2295ac4495ea2b07dece9c.jpg" },
-    { "id": "3", "title": "División de Oficinas", "description": "Sistema de cerramiento acústico para salas de juntas en edificios corporativos.", "image": "https://i0.wp.com/vidrieriareal.com.pe/wp-content/uploads/2021/04/oficina-vidrio.jpg" },
-    { "id": "4", "title": "Barandas de Cristal", "description": "Barandas de seguridad para balcones exteriores con soportes minimalistas.", "image": "https://www.alu-stock.es/wp-content/uploads/2020/07/barandilla-vidrio-exterior.jpg" },
-    { "id": "5", "title": "Cabina de Baño Deluxe", "description": "División de baño esquinera en vidrio de 10mm con accesorios en acero inoxidable.", "image": "https://arquitecturaydiseno.com.co/wp-content/uploads/2020/06/division-baño-medellin.jpg" },
-    { "id": "6", "title": "Techo de Cristal", "description": "Pérgola con cubierta de vidrio laminado para protección de lluvia en terrazas.", "image": "https://www.tumanitas.com/blog/wp-content/uploads/2016/06/cerramiento-cristal-techo.jpg" },
-    { "id": "7", "title": "Escalera Moderna", "description": "Escalones y barandas integrales de cristal para interiores de alto diseño.", "image": "https://i.pinimg.com/originals/44/21/53/4421532f2f75a6c0c2847c2a71f7636e.jpg" },
-    { "id": "8", "title": "Escaparate Comercial", "description": "Vidrieras de gran formato para locales comerciales con alta transparencia.", "image": "https://www.glassandglass.es/wp-content/uploads/2019/06/escaparate-comercial.jpg" }
+    { "id": "1", "title": "Ventanal Marítimo", "description": "Instalación de ventanales panorámicos frente al mar con resistencia a la salinidad.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKqLlQC6MqRqwnubRui50LurCK5zJFSwBt0FMtqwEin_dalhutFSzBwSs&s=10" },
+    { "id": "2", "title": "Fachada Residencial", "description": "Diseño moderno de fachada integral en vidrio templado para vivienda unifamiliar.", "image": "https://i.pinimg.com/originals/23/96/b6/2396b60947982af106561bd6f333b730.jpg" },
+    { "id": "3", "title": "División de Oficinas", "description": "Sistema de cerramiento acústico para salas de juntas en edificios corporativos.", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVXR-7k1U4qJRFUyzXoG5liaiohlE7VrLoAOv1ipgo4N8Dk3vna2Ns97d-&s=10" }
   ],
   "visita": [
     { "id": "1", "name": "Ricardo Luna", "phone": "3124567890", "address": "Transversal 45 # 20-10", "service": "Toma de Medidas", "date": "2023-11-15", "time": "10:00 AM", "description": "Medición para 3 ventanas de habitación.", "status": "Pendiente" },
